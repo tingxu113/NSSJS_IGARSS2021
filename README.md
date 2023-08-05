@@ -9,7 +9,6 @@
 # Citation
 ```bibtex
 @inproceedings{xu2021variational,
-@INPROCEEDINGS{9554815,
   author={Xu, Ting and Huang, Ting-Zhu and Chen, Yong and Huang, Jie and Deng, Liang-Jian},
   booktitle={2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS}, 
   title={A Variational Approach with Nonlocal Self-Similarity and Joint-Sparsity for Hyperspectral Image Super-Resolution}, 
