@@ -7,6 +7,7 @@
 
  
 # Citation
+```bibtex
 @inproceedings{xu2021variational,
 @INPROCEEDINGS{9554815,
   author={Xu, Ting and Huang, Ting-Zhu and Chen, Yong and Huang, Jie and Deng, Liang-Jian},
